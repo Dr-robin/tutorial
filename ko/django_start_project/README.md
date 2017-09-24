@@ -1,9 +1,9 @@
 # 나의 첫 번째 장고 프로젝트!
 
-> **Note** 이 장의 일부는 Geek Girls Carrots (http://django.carrots.pl/)의 튜토리얼을 기초로 작성되었습니다.
+> **Note** 이 장의 일부는 Geek Girls Carrots ( http://django.carrots.pl/ )의 튜토리얼을 기초로 작성되었습니다.
 
 
-> **Note** 이 장의 일부는 Creative Commons Attribution-ShareAlike 4.0 International License에 준수하여 [django-marcador 튜토리얼](https://github.com/ggcarrots/django-carrots)를 기초로 작성되었습니다. django-marcador 튜토리얼 저작권은 Markus Zapke-Gründemann et al이 소유하고 있습니다.
+> **Note** 이 장의 일부는 Creative Commons Attribution-ShareAlike 4.0 International License에 준수하여 [django-marcador 튜토리얼](https://github.com/ggcarrots/django-carrots)을 기초로 작성되었습니다. django-marcador 튜토리얼 저작권은 Markus Zapke-Gründemann et al이 소유하고 있습니다.
 
 아주 간단한 블로그 사이트를 만들어 볼 거예요!
 
